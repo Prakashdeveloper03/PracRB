@@ -31,7 +31,7 @@ numbers entered.
 22. Write a program that prints numbers from 20 to 1 ( counts downwards).
 23. Evaluate the following arithmetic expressions using the rules of operator
 precedence in Ruby.
-    - 20 // 4 * 2
+    - 20 / 4 * 2
     - 50 % 7
     - -(100 / 6) + 5
 24. Write a program that displays all the numbers from 1-100 that are not divisible

@@ -1,0 +1,6 @@
+print Python
+print Julia
+puts Ruby
+IO.puts Elixir
+System.out.println Java
+console.log Typescript
